@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Roboto+Condensed:wght@500&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+}
+
+body {
+     
+}
+
+.div-1 {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    height: 70px;
+    background-color: #e6e6dd;
+    /*opacity: 80%;*/
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+
+}
+
+.botao {
+    
+}
+
+.logo {
+    height: 158px;
+    width: 158px;
+    display: flex;    
+}
+
+.menu {
+    
+    
+}
+
+nav, a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px; 
+    font-size: large;
+
+
+}
+
+a:hover{
+    font-size: 20px;
+    transform: scale(1.);
+    transition: transform 1.0s ease;
+     
+  }
+
+  .img-others:hover {
+    transform: scale(1.1);
+    transition: transform 1s ease
+
+ }
+
+ .highlight-text:hover {
+    transform: scale(1.1);
+    transition: transform 1s ease
+ }
+
+nav, a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px;
+   
+}
+
+
+
+.div-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 650px;
+    /*background: url("http://picsum.photos/id/94/1900/650?blur=3");*/
+    /*background-color: gray;*/
+
+}
+
+
+.highlight-text {
+    font-size: 75px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+.camisetas {
+    /*background-color: brown;*/
+    display: flex;
+    justify-content:center;
+    width: 30%;
+    height: px;
+}
+
+.div-3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 400px;
+    /*background-color: aquamarine;*/
+}
+
+.div-3-left {
+    width: 320px;
+    height: 350px;
+    padding-left: 10px;
+    /*background-color: brown;*/
+}
+
+/*.highlight-img {
+    display: flex;
+    justify-content: flex-end;
+    width: 300px;
+    height: ;
+    background-color: #23691d;
+    margin: 16px;
+}*/
+
+.m-link {
+    color: darkolivegreen;
+}
+
+.camisa2 {
+    display: flex;
+    width: 320px;
+    height: 350px;
+    /*background-color: blue;*/
+}
+
+.others {
+    padding: px;
+    float: left;
+}
+
+.img-others {
+    width: 300px;
+    height: ;
+    margin: 16px;
+    float: left;
+}
+
+.camisa3 {
+    width: 320px;
+    height: 350px;  
+    /*background-color: #5cd36c;*/
+
+}
+
+.div-4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 600px;
+    /*background-color: chocolate;*/    
+}
+
+.div-5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 900px;
+    /*background-color: blueviolet;*/
+    /*linear-gradient(#23691d, #5cd36c);*/
+}
+
+.div-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 450px;
+    background-color: black;
+    color: white;
+}
+
+.btn {
+    border: none;
+   
+   
+}
+
+.lavagem {
+    /*background-color: black;*/
+    width: 200px;
+    height: 20px;
+}
+    
+
+.etiqueta {
+    /*background-color: black;*/
+    width: 100px;
+    height: 100px;
+}
+
+.rize-etiqueta {
+    width: 200px;
+    height: 500px;
+
+}
+
+.rize-logo {
+    background-color: rgb(255, 255, 255);
+ 
+    height: 500px;
+}
+
+.sobre-rize {
+    width: 1000px;
+    height: 400px;
+}
+
+.final {
+    
+ 
+    width: 400px;
+    height: 300px;
+    /*background-color: aqua;*/
+}
+
+.fim {
+    /*background-color: blue;*/
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+
